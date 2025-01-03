@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "15ncRTQY3kC9dMcgX2tuTkba9t5TZmarSq8uXdzRJ9xCeOkDyk7OBCzJV4RXAg7CnSyuUL1ESM146eTeQwcCIA==",
+  "dgSpecHash": "J3sbVeylCanV0ESpoSouelx7/Pc9kB39fHEVR2pwsDX/3+Kt7FIiG7kPMD8u1+5f+w1MYE3oDcJdt+rek+ciug==",
   "success": true,
-  "projectFilePath": "D:\\Web-Projeler\\NorthwindBackend\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MuhammetKUS\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\MuhammetKUS\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

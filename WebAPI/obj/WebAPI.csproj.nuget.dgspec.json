@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Web-Projeler\\NorthwindBackend\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\Web-Projeler\\NorthwindBackend\\Business\\Business.csproj": {
+    "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web-Projeler\\NorthwindBackend\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "D:\\Web-Projeler\\NorthwindBackend\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\MuhammetKUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Web-Projeler\\NorthwindBackend\\Business\\obj\\",
+        "outputPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MuhammetKUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Web-Projeler\\NorthwindBackend\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Web-Projeler\\NorthwindBackend\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\DataAccess\\DataAccess.csproj"
               },
-              "D:\\Web-Projeler\\NorthwindBackend\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Web-Projeler\\NorthwindBackend\\Entities\\Entities.csproj"
+              "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Entities\\Entities.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "D:\\Web-Projeler\\NorthwindBackend\\Core\\Core.csproj": {
+    "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web-Projeler\\NorthwindBackend\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Web-Projeler\\NorthwindBackend\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\MuhammetKUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Web-Projeler\\NorthwindBackend\\Core\\obj\\",
+        "outputPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MuhammetKUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -147,14 +147,14 @@
         }
       }
     },
-    "D:\\Web-Projeler\\NorthwindBackend\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web-Projeler\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\Web-Projeler\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\MuhammetKUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Web-Projeler\\NorthwindBackend\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MuhammetKUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,11 +171,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Web-Projeler\\NorthwindBackend\\Core\\Core.csproj": {
-                "projectPath": "D:\\Web-Projeler\\NorthwindBackend\\Core\\Core.csproj"
+              "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Core\\Core.csproj"
               },
-              "D:\\Web-Projeler\\NorthwindBackend\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Web-Projeler\\NorthwindBackend\\Entities\\Entities.csproj"
+              "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Entities\\Entities.csproj"
               }
             }
           }
@@ -224,14 +224,14 @@
         }
       }
     },
-    "D:\\Web-Projeler\\NorthwindBackend\\Entities\\Entities.csproj": {
+    "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web-Projeler\\NorthwindBackend\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Web-Projeler\\NorthwindBackend\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\MuhammetKUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Web-Projeler\\NorthwindBackend\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MuhammetKUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -248,8 +248,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Web-Projeler\\NorthwindBackend\\Core\\Core.csproj": {
-                "projectPath": "D:\\Web-Projeler\\NorthwindBackend\\Core\\Core.csproj"
+              "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Core\\Core.csproj"
               }
             }
           }
@@ -288,14 +288,14 @@
         }
       }
     },
-    "D:\\Web-Projeler\\NorthwindBackend\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web-Projeler\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "D:\\Web-Projeler\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\MuhammetKUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Web-Projeler\\NorthwindBackend\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MuhammetKUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -312,8 +312,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Web-Projeler\\NorthwindBackend\\Business\\Business.csproj": {
-                "projectPath": "D:\\Web-Projeler\\NorthwindBackend\\Business\\Business.csproj"
+              "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Business\\Business.csproj"
               }
             }
           }

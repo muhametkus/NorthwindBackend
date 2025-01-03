@@ -2853,11 +2853,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Web-Projeler\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "D:\\Web-Projeler\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\MuhammetKUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Web-Projeler\\NorthwindBackend\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MuhammetKUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2874,11 +2874,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Web-Projeler\\NorthwindBackend\\Core\\Core.csproj": {
-              "projectPath": "D:\\Web-Projeler\\NorthwindBackend\\Core\\Core.csproj"
+            "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Core\\Core.csproj"
             },
-            "D:\\Web-Projeler\\NorthwindBackend\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\Web-Projeler\\NorthwindBackend\\Entities\\Entities.csproj"
+            "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Entities\\Entities.csproj"
             }
           }
         }

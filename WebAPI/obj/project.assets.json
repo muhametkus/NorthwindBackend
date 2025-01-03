@@ -3388,11 +3388,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Web-Projeler\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "D:\\Web-Projeler\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\MuhammetKUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Web-Projeler\\NorthwindBackend\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MuhammetKUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3409,8 +3409,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Web-Projeler\\NorthwindBackend\\Business\\Business.csproj": {
-              "projectPath": "D:\\Web-Projeler\\NorthwindBackend\\Business\\Business.csproj"
+            "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Business\\Business.csproj"
             }
           }
         }

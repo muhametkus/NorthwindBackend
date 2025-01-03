@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yPz8EeN3QfJeXMNrIuhq5YY8HyunacWfLsTxAZt6jpwb/5heqZ7E0OJMBeJtOE7xjHYBOLGIaw/brpsVniMONQ==",
+  "dgSpecHash": "eiLNXPmq43PmZCDYS+dwDlHaGXQnx05lJp7HfF8l4+OrJBW0OXmkOBVBOZDAecRtpuzTV/WdCzwbwRHCLtpqAA==",
   "success": true,
-  "projectFilePath": "D:\\Web-Projeler\\NorthwindBackend\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\MuhammetKUS\\Documents\\NorthwindBackend\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MuhammetKUS\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\MuhammetKUS\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
