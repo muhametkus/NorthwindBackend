@@ -1,0 +1,17 @@
+D:\Web-Projeler\NorthwindBackend\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\Web-Projeler\NorthwindBackend\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\Web-Projeler\NorthwindBackend\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\Web-Projeler\NorthwindBackend\DataAccess\bin\Debug\net8.0\Core.dll
+D:\Web-Projeler\NorthwindBackend\DataAccess\bin\Debug\net8.0\Entities.dll
+D:\Web-Projeler\NorthwindBackend\DataAccess\bin\Debug\net8.0\Core.pdb
+D:\Web-Projeler\NorthwindBackend\DataAccess\bin\Debug\net8.0\Entities.pdb
+D:\Web-Projeler\NorthwindBackend\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\Web-Projeler\NorthwindBackend\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web-Projeler\NorthwindBackend\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\Web-Projeler\NorthwindBackend\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\Web-Projeler\NorthwindBackend\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Web-Projeler\NorthwindBackend\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+D:\Web-Projeler\NorthwindBackend\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\Web-Projeler\NorthwindBackend\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\Web-Projeler\NorthwindBackend\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\Web-Projeler\NorthwindBackend\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
