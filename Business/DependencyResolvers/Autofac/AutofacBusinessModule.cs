@@ -12,7 +12,11 @@ public class AutofacBusinessModule:Module
     {
         builder.RegisterType<ProductManager>().As<IProductService>();
         builder.RegisterType<EfProductDal>().As<IProductDal>();
+        
         builder.RegisterType<CategoryManager>().As<ICategoryService>();
         builder.RegisterType<EfCategoryDal>().As<ICategoryDal>();
+
+        builder.RegisterType<UserManager>().As<IUserService>();
+        builder.RegisterType<EfUserDal>().As<IUserDal>();
     }
 }
